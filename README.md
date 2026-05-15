@@ -8,8 +8,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshalVara86)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshalVora86)
 [![GTU](https://img.shields.io/badge/GTU-IT_Student-orange?style=for-the-badge&logo=graduation-cap&logoColor=white)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=HarshalVora86&color=blueviolet&style=for-the-badge&label=Profile+Views)](#)
 
 </div>
 
@@ -17,19 +18,33 @@
 
 ## 🧑‍💻 About Me
 
-```python
-harshal = {
-    "name"       : "Harshal Vora",
-    "university" : "Gujarat Technological University (GTU)",
-    "degree"     : "Information Technology",
-    "focus"      : "Data Science → Machine Learning → Gen AI",
-    "approach"   : "Learn a concept → Build a project → Push to GitHub",
-    "currently"  : ["Sharpening Python & SQL", "Exploring ML fundamentals"],
-    "next_goal"  : ["Machine Learning", "Deep Learning", "Agentic AI", "Gen AI"],
-}
+<table>
+<tr>
+<td width="55%">
+
+### 👋 Hi, I'm Harshal Vora
+🎓 &nbsp; **IT Student** @ Gujarat Technological University  
+📍 &nbsp; Gujarat, India  
+🎯 &nbsp; Aspiring **Data Scientist**  
+🔭 &nbsp; Currently building projects in **Python, SQL & Power BI**  
+🌱 &nbsp; Next: **Machine Learning → Deep Learning → Gen AI**  
+💡 &nbsp; Philosophy: *Learn a concept → Build a project → Push to GitHub*
+
+</td>
+<td width="45%">
+
+```text
+📊 Data Analysis      ████████████░░  Strong
+🐍 Python             ███████████░░░  Good
+🗄️ SQL                ██████████░░░░  Good
+📈 Power BI           █████████░░░░░  Developing
+🤖 Machine Learning   ████░░░░░░░░░░  Learning
+🧠 Deep Learning      ██░░░░░░░░░░░░  Upcoming
 ```
 
-> 📌 I'm a data-driven IT student building real projects while learning — every repo here is a step in my journey from raw data to intelligent systems.
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,7 +83,7 @@ harshal = {
 
 ---
 
-### 🔹 [Sales Uplift Strategy — Multi-Region Retail Data](https://github.com/HarshalVara86/Sales-Uplift-Strategy-Insights-from-Multi-Region-Retail-Data)
+### 🔹 [Sales Uplift Strategy — Multi-Region Retail Data](https://github.com/HarshalVora86/Sales-Uplift-Strategy-Insights-from-Multi-Region-Retail-Data)
 > **Business Analytics | Python | Pandas | Data Visualization**
 
 Analyzed multi-region retail sales data to identify growth opportunities and build a strategy framework for sales uplift. Focused on deriving actionable business insights from raw transactional data.
@@ -77,7 +92,7 @@ Analyzed multi-region retail sales data to identify growth opportunities and bui
 
 ---
 
-### 🔹 [Retail Sales Analytics Dashboard](https://github.com/HarshalVara86/retail-sales-analytics-dashboard)
+### 🔹 [Retail Sales Analytics Dashboard](https://github.com/HarshalVora86/retail-sales-analytics-dashboard)
 > **Dashboard | Power BI / Excel | Data Visualization**
 
 Built an interactive analytics dashboard for retail sales — tracking KPIs, trends, and regional performance. Designed for non-technical stakeholders to make data-driven decisions.
@@ -86,7 +101,7 @@ Built an interactive analytics dashboard for retail sales — tracking KPIs, tre
 
 ---
 
-### 🔹 [Exploratory Data Analysis (EDA)](https://github.com/HarshalVara86/Exploratory_Data_Analysis_EDA)
+### 🔹 [Exploratory Data Analysis (EDA)](https://github.com/HarshalVora86/Exploratory_Data_Analysis_EDA)
 > **Python | Pandas | Seaborn | Matplotlib**
 
 A structured EDA project covering data cleaning, statistical summaries, distribution analysis, and visual pattern discovery — core foundation of any data science workflow.
@@ -95,7 +110,7 @@ A structured EDA project covering data cleaning, statistical summaries, distribu
 
 ---
 
-### 🔹 [Student Performance & Attendance Tracker](https://github.com/HarshalVara86/Student_performance_and_attendance_tracker)
+### 🔹 [Student Performance & Attendance Tracker](https://github.com/HarshalVora86/Student_performance_and_attendance_tracker)
 > **Python | SQL | Data Analysis**
 
 A tracker system to monitor student attendance and academic performance. Includes data aggregation, performance metrics, and visual summaries.
@@ -104,7 +119,7 @@ A tracker system to monitor student attendance and academic performance. Include
 
 ---
 
-### 🔹 [Linear Regression](https://github.com/HarshalVara86/Linear_Regression)
+### 🔹 [Linear Regression](https://github.com/HarshalVora86/Linear_Regression)
 > **Machine Learning | Python | Scikit-learn**
 
 Implementation of Linear Regression from scratch and using scikit-learn — with visualization of model fit, residuals, and evaluation metrics. First step into predictive modeling.
@@ -113,7 +128,7 @@ Implementation of Linear Regression from scratch and using scikit-learn — with
 
 ---
 
-### 🔹 [Titanic Survival Dashboard](https://github.com/HarshalVara86/Titanic_Survival_dashboard)
+### 🔹 [Titanic Survival Dashboard](https://github.com/HarshalVora86/Titanic_Survival_dashboard)
 > **EDA | Power BI | Python | Storytelling with Data**
 
 Visual dashboard exploring Titanic survival patterns by gender, class, and age. Combines storytelling with data to present insights in a clear, compelling format.
@@ -126,11 +141,15 @@ Visual dashboard exploring Titanic survival patterns by gender, class, and age. 
 
 <div align="center">
 
-![Harshal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshalVara86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=HarshalVora86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalVora86&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalVara86&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HarshalVara86&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshalVora86&theme=tokyonight" width="100%"/>
 
 </div>
 
@@ -160,7 +179,7 @@ If you're a recruiter or fellow learner — feel free to reach out.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshalVara86)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshalVora86)
 
 </div>
 
