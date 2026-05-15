@@ -1,16 +1,173 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HarshalVora86/HarshalVora86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Harshal%20Vora&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20Enthusiast%20%7C%20GTU%20IT%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshalVara86)
+[![GTU](https://img.shields.io/badge/GTU-IT_Student-orange?style=for-the-badge&logo=graduation-cap&logoColor=white)](#)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```python
+harshal = {
+    "name"       : "Harshal Vora",
+    "university" : "Gujarat Technological University (GTU)",
+    "degree"     : "Information Technology",
+    "focus"      : "Data Science → Machine Learning → Gen AI",
+    "approach"   : "Learn a concept → Build a project → Push to GitHub",
+    "currently"  : ["Sharpening Python & SQL", "Exploring ML fundamentals"],
+    "next_goal"  : ["Machine Learning", "Deep Learning", "Agentic AI", "Gen AI"],
+}
+```
+
+> 📌 I'm a data-driven IT student building real projects while learning — every repo here is a step in my journey from raw data to intelligent systems.
+
+---
+
+## 🛠️ Skills & Tools
+
+### 💡 Core Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat-square&logo=chartdotjs&logoColor=white)
+![Business Case Study](https://img.shields.io/badge/Business_Case_Study-6C3483?style=flat-square&logo=readthedocs&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+### 📚 Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🚀 Learning Next
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-00A67E?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+> These 6 projects represent my current skill level — from data analysis to dashboards to predictive modeling.
+
+---
+
+### 🔹 [Sales Uplift Strategy — Multi-Region Retail Data](https://github.com/HarshalVara86/Sales-Uplift-Strategy-Insights-from-Multi-Region-Retail-Data)
+> **Business Analytics | Python | Pandas | Data Visualization**
+
+Analyzed multi-region retail sales data to identify growth opportunities and build a strategy framework for sales uplift. Focused on deriving actionable business insights from raw transactional data.
+
+`Python` `Pandas` `Matplotlib` `Business Strategy` `EDA`
+
+---
+
+### 🔹 [Retail Sales Analytics Dashboard](https://github.com/HarshalVara86/retail-sales-analytics-dashboard)
+> **Dashboard | Power BI / Excel | Data Visualization**
+
+Built an interactive analytics dashboard for retail sales — tracking KPIs, trends, and regional performance. Designed for non-technical stakeholders to make data-driven decisions.
+
+`Dashboard` `Power BI` `Excel` `Data Visualization` `Retail Analytics`
+
+---
+
+### 🔹 [Exploratory Data Analysis (EDA)](https://github.com/HarshalVara86/Exploratory_Data_Analysis_EDA)
+> **Python | Pandas | Seaborn | Matplotlib**
+
+A structured EDA project covering data cleaning, statistical summaries, distribution analysis, and visual pattern discovery — core foundation of any data science workflow.
+
+`Python` `Pandas` `Seaborn` `Matplotlib` `Statistics`
+
+---
+
+### 🔹 [Student Performance & Attendance Tracker](https://github.com/HarshalVara86/Student_performance_and_attendance_tracker)
+> **Python | SQL | Data Analysis**
+
+A tracker system to monitor student attendance and academic performance. Includes data aggregation, performance metrics, and visual summaries.
+
+`Python` `SQL` `Data Analysis` `Excel` `Reporting`
+
+---
+
+### 🔹 [Linear Regression](https://github.com/HarshalVara86/Linear_Regression)
+> **Machine Learning | Python | Scikit-learn**
+
+Implementation of Linear Regression from scratch and using scikit-learn — with visualization of model fit, residuals, and evaluation metrics. First step into predictive modeling.
+
+`Python` `Scikit-learn` `NumPy` `Matplotlib` `ML`
+
+---
+
+### 🔹 [Titanic Survival Dashboard](https://github.com/HarshalVara86/Titanic_Survival_dashboard)
+> **EDA | Power BI | Python | Storytelling with Data**
+
+Visual dashboard exploring Titanic survival patterns by gender, class, and age. Combines storytelling with data to present insights in a clear, compelling format.
+
+`Power BI` `Python` `EDA` `Data Storytelling` `Visualization`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Harshal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshalVara86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalVara86&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HarshalVara86&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Roadmap
+
+```
+✅ Python Fundamentals
+✅ SQL Basics
+✅ Excel & Power BI Dashboards
+✅ EDA & Data Visualization
+✅ Linear Regression (First ML Model)
+🔄 Machine Learning (In Progress)
+⬜ Deep Learning
+⬜ Natural Language Processing
+⬜ Generative AI
+⬜ Agentic AI Systems
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **internships**, **collaborations**, and **project feedback**.  
+If you're a recruiter or fellow learner — feel free to reach out.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshalVara86)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
