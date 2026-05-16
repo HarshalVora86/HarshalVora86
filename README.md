@@ -16,35 +16,24 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="55%">
+<div align="center">
 
-### 👋 Hi, I'm Harshal Vora
-🎓 &nbsp; **IT Student** @ Gujarat Technological University  
-📍 &nbsp; Gujarat, India  
-🎯 &nbsp; Aspiring **Data Scientist**  
-🔭 &nbsp; Currently building projects in **Python, SQL & Power BI**  
-🌱 &nbsp; Next: **Machine Learning → Deep Learning → Gen AI**  
-💡 &nbsp; Philosophy: *Learn a concept → Build a project → Push to GitHub*
+| | |
+|:---|:---|
+| 🎓 **Education** | B.Tech Information Technology — Gujarat Technological University |
+| 📍 **Location** | Gujarat, India |
+| 🎯 **Goal** | Data Scientist |
+| 🔭 **Currently** | Building projects in Python · SQL · Power BI |
+| 🌱 **Learning Next** | Machine Learning → Deep Learning → Gen AI → Agentic AI |
+| 💡 **Philosophy** | Learn a concept · Build a project · Push to GitHub |
 
-</td>
-<td width="45%">
+</div>
 
-```text
-📊 Data Analysis      ████████████░░  Strong
-🐍 Python             ███████████░░░  Good
-🗄️ SQL                ██████████░░░░  Good
-📈 Power BI           █████████░░░░░  Developing
-🤖 Machine Learning   ████░░░░░░░░░░  Learning
-🧠 Deep Learning      ██░░░░░░░░░░░░  Upcoming
-```
+<br/>
 
-</td>
-</tr>
-</table>
+> *"Every dataset tells a story — I'm here to find it."*
 
 ---
 
@@ -147,7 +136,7 @@ Visual dashboard exploring Titanic survival patterns by gender, class, and age. 
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalVora86&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/HarshalVora86)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalVora86&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/HarshalVora86)
 
 </div>
 
