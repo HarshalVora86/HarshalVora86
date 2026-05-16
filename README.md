@@ -141,17 +141,16 @@ Visual dashboard exploring Titanic survival patterns by gender, class, and age. 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshalVora86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalVora86&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=HarshalVora86&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/HarshalVora86)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshalVora86&theme=tokyonight" width="100%"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalVora86&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/HarshalVora86)
 
 </div>
+
 
 ---
 
