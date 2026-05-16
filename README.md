@@ -22,7 +22,7 @@
 
 | | |
 |:---|:---|
-| 🎓 **Education** | B.Tech Information Technology — Gujarat Technological University |
+| 🎓 **Education** | B.E. Computer Engineering — Gujarat Technological University |
 | 📍 **Location** | Gujarat, India |
 | 🎯 **Goal** | Data Scientist |
 | 🔭 **Currently** | Building projects in Python · SQL · Power BI |
@@ -136,7 +136,9 @@ Visual dashboard exploring Titanic survival patterns by gender, class, and age. 
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalVora86&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/HarshalVora86)
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,powerbi,excel,jupyter&theme=dark" />
 
 </div>
 
