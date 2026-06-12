@@ -31,12 +31,6 @@
 
 <br/>
 
-<div align="center">
-
-> *"Every dataset tells a story — I'm here to find it."*
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -220,10 +214,5 @@ If you're a recruiter or fellow learner — feel free to reach out.
 
 ---
 
-<div align="center">
-
-⭐ *"Data is the new oil — I'm learning to refine it."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-</div>
