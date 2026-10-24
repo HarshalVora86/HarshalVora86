@@ -187,16 +187,14 @@ Visual dashboard exploring survival patterns by gender, class, and age — data 
 ## 🎯 Learning Roadmap
 
 ```
-✅ Python Fundamentals
-✅ SQL Basics
-✅ Excel & Power BI Dashboards
+✅ Python, SQL, Excel, Power BI
 ✅ EDA & Data Visualization
-✅ Linear Regression (First ML Model)
-🔄 Machine Learning (In Progress)
+✅ Data Preprocessing & Feature Engineering
+✅ Supervised Learning (regression, classification, ensembles)
+⬜ Unsupervised Learning
 ⬜ Deep Learning
-⬜ Natural Language Processing
+⬜ NLP
 ⬜ Generative AI
-⬜ Agentic AI Systems
 ```
 
 ---
